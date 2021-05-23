@@ -1,0 +1,8 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: CREDITCARD-SERVICE
+  zipkin:
+    base-url: https://192.168.99.100:9411/
